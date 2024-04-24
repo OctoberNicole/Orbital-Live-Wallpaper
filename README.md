@@ -1,11 +1,14 @@
-Orbital-Live-Wallpaper
-======================
 
-Live wallpaper for android: orbitals.
+_'Orbital'_ -An Android Live Wallpaper 
+======
 
-Features include:
-- Finger tracking Live Wallpaper for Android.
-- Trefoil, circular, quad and chase rotation styles.
-- Color themes from great FLOSS projects and tech Web sites including Apache, Slashdot, XDA and more.
-- Animated transitions on touch.
-- All 100% open source GNU.
+_Features include:_
+
++ Finger tracking Live Wallpaper for Android.
+  
++ Trefoil, Circular, Quad and Chase Rotation   styles.
+  
++ Color Themes from great FOSS Projects and    technical websites including Apache,         Slashdot, XDA and more.
+  
++ Animated transitions on touch.
++ %100 FOSS.
